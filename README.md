@@ -1,4 +1,4 @@
-# FJS and FJSCU Instances
+# HFJS and HFJSCU Instances
 
 This repository contains instances for the Heterogeneous Flexible Job-shop Scheduling (HFJS) and Heterogeneous Flexible Job-shop Scheduling with Cooperative Units (HFJSCU).
 
@@ -6,7 +6,7 @@ This repository contains instances for the Heterogeneous Flexible Job-shop Sched
 
 ---
 
-## FJS Instances
+## HFJS Instances
 
 * **brandimarte**: 15 instances from [1]
 * **dauzere**: 18 instances from [2]
@@ -16,7 +16,7 @@ For more instances, please refer to: [Lei-Kun/FJSP-benchmarks](https://github.co
 
 ---
 
-## FJSCU Instances
+## HFJSCU Instances
 
 **Qu**: 30 instances
 
