@@ -1,6 +1,6 @@
 # FJS and FJSCU Instances
 
-This repository contains instances for the Flexible Job Shop Scheduling Problem (FJSSP).
+This repository contains instances for the Heterogeneous Flexible Job-shop Scheduling (HFJS) and Heterogeneous Flexible Job-shop Scheduling with Cooperative Units (HFJSCU).
 
 **Warning!** The data may not be entirely accurate. If you find any errors, please submit an issue. Always refer to the original papers for definitive information.
 
